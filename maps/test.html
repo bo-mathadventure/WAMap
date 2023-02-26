@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Random Cat Image</title>
+    <script src="https://play.workadventu.re/iframe_api.js."></script>
+    <script>
+        WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+    </script>
+</head>
+
+<body>
+    <img src="image1_url" id="cat_image">
+    <script>
+        var images = ["image1_url", "image2_url", "image3_url"];
+        var random_index = Math.floor(Math.random() * images.length);
+        document.getElementById("cat_image").src = images[random_index];
+    </script>
+
+    <p>Hallo Welt! Erstellt von Leon&Melih</p>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Random Cat Image</title>
+  </head>
+  <body>
+    <img src="image1_url" id="cat_image">
+    <script>
+        var images = ["https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_960_720.jpg", "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg", "https://cdn.pixabay.com/photo/2016/06/14/00/14/cat-1455468_960_720.jpg"];
+        var random_index = Math.floor(Math.random() * images.length);
+        document.getElementById("cat_image").src = images[random_index];
+    </script>
+  </body>
+</html>
