@@ -250,7 +250,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/M15yx71UIkU"
+                 "value":"https:\/\/www.youtube.com\/watch?v=kPRA0W1kECg"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -399,7 +399,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/test.html"
+                 "value":"https:\/\/htmlpreview.github.io\/?https:\/\/github.com\/LeonKuehne\/WAMap\/blob\/master\/maps\/test.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
