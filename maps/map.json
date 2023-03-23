@@ -58,7 +58,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":75,
          "x":0,
          "y":0
@@ -119,7 +119,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":75,
          "x":0,
          "y":0
@@ -250,7 +250,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=kPRA0W1kECg"
+                 "value":"https:\/\/www.youtube.com\/embed\/kPRA0W1kECg"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -268,7 +268,7 @@
                  "value":"Dr\u00fccke LEERTASTE um dir ein SUPER Video anzugucken"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":75,
          "x":0,
          "y":0
@@ -335,7 +335,7 @@
                  "value":".\/test.pdf"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":75,
          "x":0,
          "y":0
@@ -407,7 +407,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":75,
          "x":0,
          "y":0
@@ -474,7 +474,7 @@
                  "value":"https:\/\/sketchtogether.com"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":75,
          "x":0,
          "y":0
