@@ -211,11 +211,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"TestRoom"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
