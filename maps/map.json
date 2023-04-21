@@ -206,6 +206,12 @@
          "id":53,
          "name":"meeting-room",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"TestRoom"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
