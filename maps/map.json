@@ -1351,7 +1351,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/Prototyp\/Vorlesungsvideos\/"
+                 "value":""
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1359,7 +1359,7 @@
                  "value":"fullscreen"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":84,
          "x":0,
          "y":0
