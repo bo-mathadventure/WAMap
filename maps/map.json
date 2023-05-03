@@ -2796,7 +2796,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/?v=\/\/majitsi.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_04_asymptotik_teil1.mp4.m3u8"
+                 "value":"https:\/\/mathadventure.hs-bochum.de\/media\/?v=\/\/mathadventure.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_04_asymptotik_teil1.mp4.m3u8"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -2919,7 +2919,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/?v=\/\/majitsi.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_04_asymptotik_teil2.mp4.m3u8"
+                 "value":"https:\/\/mathadventure.hs-bochum.de\/media\/?v=\/\/mathadventure.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_04_asymptotik_teil2.mp4.m3u8"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -3042,7 +3042,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/?v=\/\/majitsi.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_06_stetigkeit_reller_funktionen_01_grenzwertbegriff_fuer_funktionen_teil1.mp4.m3u8"
+                 "value":"https:\/\/mathadventure.hs-bochum.de\/media\/?v=\/\/mathadventure.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_06_stetigkeit_reller_funktionen_01_grenzwertbegriff_fuer_funktionen_teil1.mp4.m3u8"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -3165,7 +3165,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/?v=\/\/majitsi.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_06_stetigkeit_reller_funktionen_01_grenzwertbegriff_fuer_funktionen_teil2.mp4.m3u8"
+                 "value":"https:\/\/mathadventure.hs-bochum.de\/media\/?v=\/\/mathadventure.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_06_stetigkeit_reller_funktionen_01_grenzwertbegriff_fuer_funktionen_teil2.mp4.m3u8"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -3288,7 +3288,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/?v=\/\/majitsi.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_06_stetigkeit_reller_funktionen_01_grenzwertbegriff_fuer_funktionen_teil3.mp4.m3u8"
+                 "value":"https:\/\/mathadventure.hs-bochum.de\/media\/?v=\/\/mathadventure.hs-bochum.de\/media\/streams\/Vorlesungsvideos\/04_06_stetigkeit_reller_funktionen_01_grenzwertbegriff_fuer_funktionen_teil3.mp4.m3u8"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -3785,7 +3785,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/majitsi.hs-bochum.de\/media\/Prototyp\/\u00dcbungsbl\u00e4tter\/Aufgaben.pdf"
+                 "value":"https:\/\/mathadventure.hs-bochum.de\/media\/Prototyp\/\u00dcbungsbl\u00e4tter\/Aufgaben.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -3987,7 +3987,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 593, 745, 745, 745, 744, 745, 745, 745, 744, 744, 533, 0, 0, 0, 0, 0, 743, 2147484392, 2147484392, 2147484392, 2147484393, 2147484393, 2147484392, 2147484393, 2147484393, 2147484393, 533, 0, 0, 0, 0, 0, 0, 543, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 0, 0, 543, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 599, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 643, 770, 770, 770, 770, 770, 770, 770, 770, 770, 499, 0, 0, 0, 0, 0, 769, 769, 769, 769, 769, 769, 769, 769, 769, 769, 543, 0, 0, 0, 0, 0, 0, 543, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 0, 0, 543, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 624, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 643, 795, 795, 795, 795, 795, 795, 795, 795, 795, 524, 0, 0, 0, 0, 0, 769, 769, 769, 769, 769, 769, 769, 769, 769, 769, 543, 0, 0, 0, 0, 0, 0, 543, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 0, 0, 543, 0, 0, 0, 0, 0, 0, 0, 0, 499, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 649, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 643, 795, 795, 795, 795, 795, 795, 795, 795, 795, 574, 0, 0, 0, 0, 0, 794, 794, 794, 794, 794, 794, 794, 794, 794, 794, 743, 1610613382, 0, 0, 0, 0, 744, 1610613329, 744, 745, 745, 0, 0, 745, 745, 745, 749, 0, 0, 0, 0, 0, 743, 744, 745, 745, 0, 0, 745, 745, 745, 749, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 674, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 643, 795, 795, 795, 795, 795, 795, 795, 795, 795, 574, 0, 0, 0, 0, 0, 794, 794, 794, 794, 794, 794, 794, 794, 794, 794, 743, 1610613382, 0, 0, 0, 0, 433, 1610613329, 744, 745, 434, 0, 0, 433, 745, 745, 749, 0, 0, 0, 0, 0, 743, 744, 745, 434, 0, 0, 433, 745, 745, 749, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 674, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 643, 0, 0, 0, 0, 0, 0, 0, 0, 0, 574, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 769, 771, 0, 0, 0, 0, 769, 769, 769, 770, 770, 0, 0, 770, 770, 770, 774, 0, 0, 0, 0, 0, 769, 769, 770, 770, 0, 0, 770, 770, 770, 774, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 699, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 643, 0, 0, 0, 0, 0, 0, 0, 0, 0, 431, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 794, 796, 0, 0, 0, 0, 794, 794, 794, 795, 795, 0, 0, 795, 795, 795, 799, 0, 0, 0, 0, 0, 794, 794, 795, 795, 0, 0, 795, 795, 795, 799, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 724, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 668, 0, 0, 0, 0, 0, 0, 0, 0, 0, 774, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 574, 0, 0, 0, 0, 0, 0,
