@@ -332,7 +332,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/test.pdf"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":false,
