@@ -227,7 +227,7 @@
                  "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/map.old.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":88,
          "x":0,
          "y":0
