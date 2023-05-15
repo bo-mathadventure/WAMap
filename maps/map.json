@@ -5297,6 +5297,22 @@
                          "tileid":458
                         }],
                  "id":489
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":300,
+                         "tileid":457
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":458
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":459
+                        }],
+                 "id":490
                 }],
          "tilewidth":32
         }, 
@@ -5321,6 +5337,19 @@
          "imagewidth":1024,
          "margin":0,
          "name":"terrain_atlas",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":6684,
+         "image":"..\/tilesets\/ZRPGBeach.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"ZRPGBeach",
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
