@@ -224,7 +224,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/beach\/beach.json"
+                 "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/beach-map\/beach.json"
                 }],
          "type":"tilelayer",
          "visible":false,
