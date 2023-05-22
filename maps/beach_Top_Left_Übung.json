@@ -1707,19 +1707,6 @@
                  "id":515
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":3,
-         "firstgid":8524,
-         "image":"C:\/Users\/melih\/Desktop\/PIPOYA FREE RPG Character Sprites 32x32\/Male\/Male 01-1.png",
-         "imageheight":128,
-         "imagewidth":96,
-         "margin":0,
-         "name":"Male 01-1",
-         "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
