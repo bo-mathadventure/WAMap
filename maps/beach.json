@@ -1125,7 +1125,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/prototyp.json"
+                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/prototyp.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":false,
