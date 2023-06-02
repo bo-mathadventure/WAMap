@@ -652,7 +652,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/beach_SpawnHouse.json"
+                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/prototyp.json#startBeach"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -1125,7 +1125,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/prototyp.json#start"
+                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/lobby.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":false,
