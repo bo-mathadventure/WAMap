@@ -1031,7 +1031,7 @@
                          "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/beach_ship.json"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":92,
                  "x":0,
                  "y":0
