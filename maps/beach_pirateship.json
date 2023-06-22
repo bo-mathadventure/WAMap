@@ -607,7 +607,7 @@
                                  "value":"Dr\u00fccke LEERTASTE um das Whiteboard anzuzeigen"
                                 }],
                          "type":"tilelayer",
-                         "visible":true,
+                         "visible":false,
                          "width":53,
                          "x":0,
                          "y":0
@@ -700,7 +700,7 @@
                                  "value":"Dr\u00fccke LEERTASTE um das \u00dcbungsblatt anzuzeigen"
                                 }],
                          "type":"tilelayer",
-                         "visible":true,
+                         "visible":false,
                          "width":53,
                          "x":0,
                          "y":0
