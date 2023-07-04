@@ -231,7 +231,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/beach_LhouseSecondFloor.json"
+                         "value":"\/_\/global\/bo-mathadventure.github.io\/WAMap\/maps\/beach_Lhouse2.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
