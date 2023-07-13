@@ -87,9 +87,53 @@
          "id":6,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"area",
+                 "type":"string",
+                 "value":"start"
+                }, 
+                {
+                 "name":"name",
+                 "type":"string",
+                 "value":"start"
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":107,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":88,
+         "name":"test",
+         "objects":[
+                {
+                 "height":122,
+                 "id":18,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":287,
+                 "x":752,
+                 "y":1327
+                }, 
+                {
+                 "height":0,
+                 "id":19,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":889,
+                 "y":1258
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -3374,8 +3418,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":88,
- "nextobjectid":18,
+ "nextlayerid":89,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
         {

@@ -3,15 +3,11 @@ console.log("Test");
 WA.chat.sendChatMessage('Hello world', 'Mr Robot');
 
 WA.onInit().then(() => {
-    console.log('Scripting API ready');
-    console.log('Player tags: ',WA.player.tags)
-
-    WA.room.area.onEnterLayer('start').subscribe(() => {
-        console.log("Spawnpoint entered")
+    WA.room.area.onEnter('start').subscribe(() => {
+        console.log("Spawnpoint entered");
+        WA.chat.sendChatMessage("Hello!", "Mr Robot");
     })
-
-    WA.room.area.onLeaveLayer('start').subscribe(closePopup)
-
+    
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
