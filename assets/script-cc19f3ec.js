@@ -1,0 +1,1 @@
+console.log("Test");WA.chat.sendChatMessage("Hello world","Mr Robot");WA.onInit().then(()=>{WA.room.area.onEnter("start").subscribe(()=>{console.log("Spawnpoint entered"),WA.chat.sendChatMessage("Hello!","Mr Robot")}),bootstrapExtra().then(()=>{console.log("Scripting API Extra ready")}).catch(o=>console.error(o))}).catch(o=>console.error(o));
